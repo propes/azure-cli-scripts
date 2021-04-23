@@ -2,9 +2,9 @@
 
 # Script for setting up an Azure App Service app
 
-RG_NAME=rg-coolbananas-shared
-APP_PLAN=coolbananas
-APP_NAME=coolbananas-123
+RG_NAME="rg-coolbananas-shared"
+APP_PLAN="coolbananas"
+APP_NAME="coolbananas-123"
 
 set -x
 
